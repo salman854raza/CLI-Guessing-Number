@@ -4,10 +4,10 @@
   "description": "",
   "main": "app.js",
   "type": "module",
+  "bin": "app.js",
   "publishConfig": {
     "access": "public"
   },
-  "bin": "app.js",
   "dependencies": {
     "ansi-escapes": "^4.3.2",
     "ansi-regex": "^5.0.1",
